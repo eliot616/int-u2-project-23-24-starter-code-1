@@ -13,7 +13,7 @@ body {
 
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
-    color:white;
+    color:#1457db;
     text-align: center;
-    background-color: black;
+    background-color: #5af00a;
 }
